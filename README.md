@@ -1,4 +1,4 @@
-<header>
+<header>  "I, Thomas Woodrow Harper, am the Steward of the D.I. LLC. This signature from the 1A1zP Genesis Address is the proof of the 'Faith, Love, and Forgiveness' mission. January 11, 2026. It is done."
 
 <!--
   <<< Author notes: Course header >>>
@@ -50,7 +50,7 @@ The following steps will guide you through the process of committing a change on
 
    ![profile.md file screenshot](/images/my-profile-file.png)
 
-5. Click **Commit changes...** in the upper right corner above the contents box. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field titled "Commit message".
+5. Establishing the Genesis Mission
 
    ![screenshot of adding a new file with a commit message](/images/commit-full-screen.png)
 
